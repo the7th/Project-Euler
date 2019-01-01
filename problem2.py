@@ -1,4 +1,5 @@
 # This is for problem 2 of ProjectEuler https://projecteuler.net/problem=2
+# already checked the solution with others. seems good!
 firstNumber = 0
 secondNumber = 1
 thirdNumber = 1
